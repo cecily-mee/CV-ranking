@@ -2,7 +2,7 @@
 
 This project implements a resume ranking system using Support Vector Regression (SVR) to predict scores based on input HR ratings. The resumes are ranked based on predicted scores.
 
-###Prerequisites
+### Prerequisites
 
 Python must be installed on your machine along with the required packages listed in `requirements.txt`.
 
